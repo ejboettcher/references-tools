@@ -14,17 +14,18 @@ his page has a nice breakdown on why use dark mode and some design tips.
 
 ### Projection tools 
 
-| URL | Description |
-| pyproj | handle converting between different earth-type coordinate system. It uses the c++ PROJ library underneath.|
+| URL     | Description |
+|:--------|:---|
+| pyproj  | handle converting between different earth-type coordinate system. It uses the c++ PROJ library underneath.|
 | shapely | Converts points | 
 
 
 
 ## Ref systems books
 
-| Book                                                                                                                                        | Author | Description  |
-|:--------------------------------------------------------------------------------------------------------------------------------------------|:-------|:-------------|
-| [INS Systems](https://gitlab.com/gnc-program/ins-book/-/wikis/home)                                                                         | Dave Woodburn | Has code for earth ref system to sensor systems | 
-| [Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems, Second Edition](https://ieeexplore.ieee.org/document/9101092) | Pual Groves | 2013 |
+| Book                                                                                                                                        | Author        | Description                                     |
+|:--------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:------------------------------------------------|
+| [INS Systems](https://gitlab.com/gnc-program/ins-book/-/wikis/home)                                                                         | Dave Woodburn | Has code for earth ref system to sensor systems |  
+| [Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems, Second Edition](https://ieeexplore.ieee.org/document/9101092) | Pual Groves   | 2013                                            |
 
 
